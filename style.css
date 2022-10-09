@@ -1,0 +1,208 @@
+.section-one {
+    background-color: aliceblue;
+}
+
+.subsection-one {
+    width: 75%;
+    height: 88.3vh;
+    margin-left: 150px;
+    position: relative;
+}
+.cloud1 {
+    position: absolute;
+    top: 70px;
+    right: 80px;
+}
+.cld{
+    width: 100px;
+    height: 30px;
+}
+.sec1pa1 {
+    position: absolute;
+    left: 360px;
+    font-size: 3rem;
+    top: 120px;
+    font-family: 'Brush Script MT', cursive;
+    color: blue;
+    
+}
+.sec1pa2 {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    font-size: 2rem;
+    color:lightblue;
+}
+.cloud2 {
+    position: absolute;
+    top: 250px;
+    left: 80px;
+}
+.mount {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 250px;
+    top: 250px;
+    bottom: 0;
+}
+#mnt {
+    height: 300px;
+}
+.section-two {
+    position: relative;
+}
+.subsection-two {
+    width: 50%;
+    height: 170vh;
+    margin: 0 auto;
+}
+#me {
+    width: 200px;
+    height: 200px;
+    margin-top: 80px;
+}
+.sec2pa1, .sec2head2 {
+    text-align: center;
+    color: forestgreen;
+    font-size: 2rem;
+}
+.sec2pa2 {
+    width: 80%;
+    margin-left: 50px;
+}
+.my {
+    text-align: center;
+    font-size: 10px;
+}
+.dot1, .dot2 {
+    text-align: center;
+    font-size: 25px;
+}
+#coimg {
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+}
+.forcomimg {
+    width: 73%;
+    float: right;
+    margin-top: 20px;
+    font-size: 0.8rem;
+}
+.compimg {
+    width: 20%;
+    float: left;
+}
+.cimgpa, .fteachpa {
+    color: forestgreen;
+}
+.timgpa {
+    width: 23%;
+    float: right;
+}
+.forteach {
+    margin-top: 10px;
+    width: 75%;
+    float: left;
+    font-size: 0.8rem;
+}
+#teach {
+    width: 150px;
+    height: 150px;
+}
+.section3 {
+    background-color: rgb(196, 193, 193);
+    height: 158vh;
+    position: relative;
+}
+.sub3pa1 {
+    width: 22.3%;
+    position: absolute;
+    left: 530px;
+    top: 90px;
+    
+}
+.sub3head {
+    color: forestgreen;
+    font-size: 2rem;
+}
+.flex1 {
+    position: absolute;
+    display: flex;
+    top: 175px;
+    left: 110px;
+}
+.flex1 > div, .flex2 > div {
+    margin: 5px;
+}
+.gal1, .gal2 {
+    width: 350px;
+    height: 350px;
+}
+.gal1:hover, .gal2:hover {
+    transform: scale(1.13);
+}
+.flex2 {
+    position: absolute;
+    display: flex;
+    top: 540px;
+    left: 110px;
+}
+.dot3 {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 1.5rem;
+}
+.sec4head {
+    color: rgb(75, 165, 221);
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 50px;
+}
+.sec4pa {
+    text-align: center;
+    color: rgb(39, 131, 189);
+    margin-top: 20px;
+}
+.sec4pa2 {
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(77, 71, 71);
+}
+.but {
+    margin-left: 815px;
+    margin-top: 50px;
+}
+button {
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    background-color: rgb(39, 151, 196);
+    border: none;
+    padding: 5px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+button:hover {
+    background-color: rgb(87, 224, 87);
+}
+footer{
+    background-color: rgb(39, 151, 196);
+    padding-top: 40px;
+}
+nav {
+    text-align: center;
+    word-spacing: 5rem;
+}
+.link {
+    text-decoration: none;
+    color:  rgb(3, 89, 122);
+}
+.foot {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 0.9rem;
+    color: azure;
+}
